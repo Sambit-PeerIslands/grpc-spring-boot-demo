@@ -14,8 +14,9 @@
 </dependency>
 ```
 
+
 ### Run and test the application
 
-1. Start the grpc server by running the `[GrpcSpringBootDemoApplication.java](greeting-service%2Fsrc%2Fmain%2Fjava%2Fcom%2Fexample%2Fgrpc%2FGrpcSpringBootDemoApplication.java)`
+1. Start the grpc server by running the [GrpcSpringBootDemoApplication.java](greeting-service%2Fsrc%2Fmain%2Fjava%2Fcom%2Fexample%2Fgrpc%2FGrpcSpringBootDemoApplication.java)
 2. Hit the server with grpc requests using any of the following client (1. Terminal using grpcurl , 2. Another client module , 3. Postman)
 3. From postman , create a new grpc request -> specify endpoint "localhost:9090" -> Import service defination by importing this proto file [greeting.proto](greeting-common%2Fsrc%2Fmain%2Fproto%2Fgreeting.proto)
