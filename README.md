@@ -23,4 +23,4 @@
 
 [Image](greeting-service/docs/postman.png)
 ### References :-
-1. [Sample-Grpc-App](https://yidongnan.github.io/grpc-spring-boot-starter/en/server/getting-started.html)
+1. ![Sample-Grpc-App](https://yidongnan.github.io/grpc-spring-boot-starter/en/server/getting-started.html)
