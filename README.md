@@ -21,6 +21,6 @@
 2. Hit the server with grpc requests using any of the following client (1. Terminal using grpcurl , 2. Another client module , 3. Postman)
 3. From postman , create a new grpc request -> specify endpoint "localhost:9090" -> Import service defination by importing this proto file [greeting.proto](greeting-common%2Fsrc%2Fmain%2Fproto%2Fgreeting.proto)
 
-[Image](greeting-service/docs/postman.png)
+![Image](greeting-service/docs/postman.png)
 ### References :-
-1. ![Sample-Grpc-App](https://yidongnan.github.io/grpc-spring-boot-starter/en/server/getting-started.html)
+1. [Sample-Grpc-App](https://yidongnan.github.io/grpc-spring-boot-starter/en/server/getting-started.html)
